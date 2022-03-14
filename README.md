@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @martilives
 - 👀 I’m interested in developing Python skills
 - 🌱 I’m currently learning Python, Data Science/Machine Learning, SQL
-- 💞️ I’m looking to collaborate on Python code
+- 💞️ I’m looking to collaborate on Python code starting with simple tasks
 - 📫 How to reach me ...
 
 <!---
